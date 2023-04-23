@@ -15,7 +15,7 @@
 
 .main-text {
   font-size: 42px;
-  color: aqua;
+  color: rgb(153, 246, 246);
   text-indent: 25px;
 }
 
@@ -51,7 +51,7 @@ body {
 }
 
 .card-dish {
-  border: 10px double rgb(0, 237, 250);
+  border: 10px double rgb(183, 136, 244);
   width: 300px;
   color: rgb(255, 255, 255);
   font-family: "Courier New", Courier, monospace;
